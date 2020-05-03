@@ -2,7 +2,8 @@
 
 [![Build Status](https://travis-ci.org/kubernetes/autoscaler.svg?branch=master)](https://travis-ci.org/kubernetes/autoscaler) [![GoDoc Widget]][GoDoc]
 
-This repository contains autoscaling-related components for Kubernetes.
+This repository contains forke of cluster autoscaler of version 1.12. To fix one bug present in 1.12 till version 1.12.8
+The bug is documented in https://github.com/kubernetes/autoscaler/issues/3042#event-3284382539
 
 ## What's inside
 

@@ -1,7 +1,7 @@
 # Kubernetes Autoscaler
 
 
-This repository contains forke of cluster autoscaler of version 1.12. To fix one bug present in 1.12 till version 1.12.8 The bug is documented in https://github.com/kubernetes/autoscaler/issues/3042#event-3284382539
+This repository contains a fork of cluster autoscaler of version 1.12. To fix one bug present in 1.12 till version 1.12.8 The bug is documented in https://github.com/kubernetes/autoscaler/issues/3042#event-3284382539
 
 You can either use the docker image which contain the fix yogeshkunjir/clusterautoscaler:v1.12.8.patch-fix which is of this build or compile below source code or patch offical one and compile using below steps.
 
